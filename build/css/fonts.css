@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'Base 02 Cyrillic';
+    src: url('../fonts/bas/Base02Cyrillic.eot');
+    src: url('/build/fonts/bas/Base02Cyrillic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/bas/Base02Cyrillic.woff2') format('woff2'),
+        url('../fonts/bas/Base02Cyrillic.woff') format('woff'),
+        url('../fonts/bas/Base02Cyrillic.ttf') format('truetype'),
+        url('../fonts/bas/Base02Cyrillic.svg#Base02Cyrillic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'IBM Plex Sans';
+    src: url('../fonts/sans/IBMPlexSans-Light.eot');
+    src: url('../fonts/sans/IBMPlexSans-Light.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/sans/IBMPlexSans-Light.woff2') format('woff2'),
+        url('../fonts/sans/IBMPlexSans-Light.woff') format('woff'),
+        url('../fonts/sans/IBMPlexSans-Light.ttf') format('truetype'),
+        url('../fonts/sans/IBMPlexSans-Light.svg#IBMPlexSans-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Roboto-mid';
+    src: url('../fonts/robotto/Roboto-Medium.eot');
+    src: url('../fonts/robotto/Roboto-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/robotto/Roboto-Medium.woff2') format('woff2'),
+        url('../fonts/robotto/Roboto-Medium.woff') format('woff'),
+        url('../fonts/robotto/Roboto-Medium.ttf') format('truetype'),
+        url('../fonts/robotto/Roboto-Medium.svg#Roboto-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Roboto-bol';
+    src: url('../fonts/robotto/Roboto-Bold.eot');
+    src: url('../fonts/robotto/Roboto-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/robotto/Roboto-Bold.woff2') format('woff2'),
+        url('../fonts/robotto/Roboto-Bold.woff') format('woff'),
+        url('../fonts/robotto/Roboto-Bold.ttf') format('truetype'),
+        url('../fonts/robotto/Roboto-Bold.svg#Roboto-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}

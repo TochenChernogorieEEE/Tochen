@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Base 02 Cyrillic';
+    src: url('Base02Cyrillic.eot');
+    src: url('Base02Cyrillic.eot?#iefix') format('embedded-opentype'),
+        url('Base02Cyrillic.woff2') format('woff2'),
+        url('Base02Cyrillic.woff') format('woff'),
+        url('Base02Cyrillic.ttf') format('truetype'),
+        url('Base02Cyrillic.svg#Base02Cyrillic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
